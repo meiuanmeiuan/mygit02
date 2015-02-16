@@ -1,2 +1,3 @@
 another file belongs to another repository
 new branch test
+conflict test
